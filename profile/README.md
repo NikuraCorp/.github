@@ -1,5 +1,5 @@
 # Nikura Games Team
-Welcome any user
+Welcome to Nikura
 ## Founder
  * Gustavo Simões
 ### Tech Team
