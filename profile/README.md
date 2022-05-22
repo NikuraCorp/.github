@@ -5,7 +5,7 @@ Welcome to Nikura
     
      _ @>_FAT_CODER[]{
      * int BigFullFat = PHIKILL 
-     _ @>_FAT_TEAM[]{
+     _ @>_FAT_TEAM[]}
                                     
                  
                  ███╗   ██╗██╗██╗  ██╗██╗   ██╗██████╗  █████╗      ██████╗  █████╗ ███╗   ███╗███████╗███████╗          
