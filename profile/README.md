@@ -19,19 +19,27 @@ Welcome to Nikura
 
 </div>
   <details>
-  <summary>More Info! 🡸  </summary>
+  <summary>More Info 🡸  </summary>
   
-## Founder
+## *Founder
+    
  * Gustavo Simões
+ *   
 ### Tech Team
+    
  * no
+ *  
 #### Code Team
+    
  * Gustavo Simões
+ *  
 ##### Review Team
  * Gustavo Simões
+    
  * 
 ###### Publish Team
  * no
+ *  
       
 </details>
 
