@@ -14,7 +14,7 @@ Welcome to Nikura
                  ██║ ╚████║██║██║  ██╗╚██████╔╝██║  ██║██║  ██║    ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗███████║
                  ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
   
-   ↓ More Info of Partial Nikura Games Team ↓
+   ↓ More info from the small part of Nikura Games team ↓
 ============
 
 </div>
