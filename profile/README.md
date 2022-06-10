@@ -30,7 +30,7 @@ Welcome to Nikura
     * None 
     
 #### Code
-    / Gustavo Simões     //// Gladson Simões     //// João Sckrok
+    / Gustavo Simões
     
     
 #### Design 
