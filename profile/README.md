@@ -22,27 +22,8 @@ Welcome to Nikura
   <details>
   <summary>More Info 🡸  </summary>
 
-#### Founder
-    // Gustavo Simões
-  
-##  DEVS  
-#### Model and Texture
-    * None 
-    
-#### Code
-    / Gustavo Simões
-    
-    
-#### Design 
-    // Gustavo Simões
-    
-## The Check Team
-#### Review
-     ...
-    
-#### Publish
-     ...
-    
+  The Team have 1 dev in moment,.,
+  ----
       
 </details>
 
