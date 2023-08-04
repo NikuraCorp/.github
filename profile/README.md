@@ -27,8 +27,9 @@ the team is focused on studying new things that were used in the past, old thing
       
 Status!
 
-Stopped for reasons like:
-things discovered at the last minute
+in constant studies, because the group is focused on overcoming the limitations of something.  
+
+an example is Open Watcom  
     
 </details>
 
