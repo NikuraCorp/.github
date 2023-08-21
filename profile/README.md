@@ -1,5 +1,5 @@
 # S.I.L.D
-Welcome to Potatoe PC'S TEAM !
+Welcome to Potatoe PC TEAM !
 
 
     
