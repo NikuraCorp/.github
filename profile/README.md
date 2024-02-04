@@ -61,8 +61,6 @@ Welcome to Potatoe PC TEAM !
 
 to develop lighter and more optimized software, and is extremely compatible.
     
-the team is focused on studying new things that were used in the past, old things!  
-    
  the team is a joke! haha  
       
 ### Status!
@@ -73,9 +71,9 @@ an example is Open Watcom
 
  ### What is the team’s focus?
 
-update the Open Watcom Compiler.
+update the [Open Watcom](https://github.com/SILDTeam/SILD_WATCOM) Compiler.
 
-create a light engine in c89.
+create a [light game engine in c89.](https://github.com/SILDTeam/LEFA-GE)
     
 </details>
 
