@@ -1,4 +1,6 @@
 # S.I.L.D
+Simplified Interactive & Lightweight Development  
+
 Welcome to Potatoe PC TEAM !
 
 
@@ -54,7 +56,10 @@ Welcome to Potatoe PC TEAM !
 
   the study and development team for something to do with games currently has only 1 active person in the group  
     > phikill 
-    
+
+### Why was it created?
+
+to develop lighter and more optimized software, and is extremely compatible.
     
 the team is focused on studying new things that were used in the past, old things!  
     
